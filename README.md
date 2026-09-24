@@ -10,8 +10,6 @@
 
 This repository contains my completed **Portfolio Activity: Conduct a Security Audit** from the Google Cybersecurity Certificate program. The exercise is based on a fictional company called **Botium Toys**, a small U.S.-based toy retailer with a growing online presence.
 
-As an aspiring cybersecurity analyst with 8+ years of experience in technical support, this exercise helped me apply security thinking to a realistic business scenario — reviewing assets, identifying risks, and evaluating controls and compliance practices.
-
 ---
 
 ## Scenario Summary
