@@ -9,7 +9,7 @@
 
 ## Instructions
 
-This checklist is based on a review of the **Botium Toys: Scope, Goals, and Risk Assessment Report**. For each item, I determined whether the control or compliance best practice is currently in place at Botium Toys, based on the details provided in the risk assessment.
+This checklist is based on a review of the [Botium Toys: Scope, Goals, and Risk Assessment Report](https://github.com/Ghost25-tech/Botium-toys-security-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf). For each item, I determined whether the control or compliance best practice is currently in place at Botium Toys, based on the details provided in the risk assessment.
 
 ---
 
