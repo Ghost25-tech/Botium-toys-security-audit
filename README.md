@@ -1,4 +1,3 @@
-# Botium-toys-security-audit
 # Botium Toys: Internal Security Audit
 
 > **Google Cybersecurity Certificate** | Course 2: Play It Safe – Manage Security Risks  
